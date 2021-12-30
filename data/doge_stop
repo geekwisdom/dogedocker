@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/dogecoin/dogecoin/bin/dogecoin-cli -datadir=/home/dogecoin/data stop
